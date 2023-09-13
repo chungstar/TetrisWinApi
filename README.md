@@ -2,6 +2,9 @@
 
 비트교육센터에서 Windows API를 공부하면서 수업을 따라하면서 만들어 본 테트리스 프로젝트  
 
+![image](https://github.com/chungstar/TetrisWinApi/assets/58381211/6b2a0926-2057-4050-97a5-90d1066fd673)
+
+
 기간 : 20230912~20230913  
 기술 스택: Windows API
 
